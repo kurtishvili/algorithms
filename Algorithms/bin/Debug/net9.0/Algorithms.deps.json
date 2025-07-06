@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Algorithms/1.0.0": {
+        "dependencies": {
+          "Algoritihms-DataStruct-Lib": "1.0.0"
+        },
+        "runtime": {
+          "Algorithms.dll": {}
+        }
+      },
+      "Algoritihms-DataStruct-Lib/1.0.0": {
+        "runtime": {
+          "Algoritihms-DataStruct-Lib.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Algorithms/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Algoritihms-DataStruct-Lib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

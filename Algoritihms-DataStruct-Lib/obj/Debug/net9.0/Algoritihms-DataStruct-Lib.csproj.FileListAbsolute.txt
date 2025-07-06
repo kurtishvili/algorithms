@@ -1,0 +1,11 @@
+/Users/giokurtishvili/RiderProjects/Algorithms/Algoritihms-DataStruct-Lib/bin/Debug/net9.0/Algoritihms-DataStruct-Lib.deps.json
+/Users/giokurtishvili/RiderProjects/Algorithms/Algoritihms-DataStruct-Lib/bin/Debug/net9.0/Algoritihms-DataStruct-Lib.dll
+/Users/giokurtishvili/RiderProjects/Algorithms/Algoritihms-DataStruct-Lib/bin/Debug/net9.0/Algoritihms-DataStruct-Lib.pdb
+/Users/giokurtishvili/RiderProjects/Algorithms/Algoritihms-DataStruct-Lib/obj/Debug/net9.0/Algoritihms-DataStruct-Lib.GeneratedMSBuildEditorConfig.editorconfig
+/Users/giokurtishvili/RiderProjects/Algorithms/Algoritihms-DataStruct-Lib/obj/Debug/net9.0/Algoritihms-DataStruct-Lib.AssemblyInfoInputs.cache
+/Users/giokurtishvili/RiderProjects/Algorithms/Algoritihms-DataStruct-Lib/obj/Debug/net9.0/Algoritihms-DataStruct-Lib.AssemblyInfo.cs
+/Users/giokurtishvili/RiderProjects/Algorithms/Algoritihms-DataStruct-Lib/obj/Debug/net9.0/Algoritihms-DataStruct-Lib.csproj.CoreCompileInputs.cache
+/Users/giokurtishvili/RiderProjects/Algorithms/Algoritihms-DataStruct-Lib/obj/Debug/net9.0/Algoritihms-DataStruct-Lib.dll
+/Users/giokurtishvili/RiderProjects/Algorithms/Algoritihms-DataStruct-Lib/obj/Debug/net9.0/refint/Algoritihms-DataStruct-Lib.dll
+/Users/giokurtishvili/RiderProjects/Algorithms/Algoritihms-DataStruct-Lib/obj/Debug/net9.0/Algoritihms-DataStruct-Lib.pdb
+/Users/giokurtishvili/RiderProjects/Algorithms/Algoritihms-DataStruct-Lib/obj/Debug/net9.0/ref/Algoritihms-DataStruct-Lib.dll
