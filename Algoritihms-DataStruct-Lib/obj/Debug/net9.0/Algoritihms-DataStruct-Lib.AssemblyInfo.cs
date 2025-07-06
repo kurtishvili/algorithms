@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Algoritihms-DataStruct-Lib")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+264343736c9076f29c708f9495960fab0850e467")]
 [assembly: System.Reflection.AssemblyProductAttribute("Algoritihms-DataStruct-Lib")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Algoritihms-DataStruct-Lib")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
